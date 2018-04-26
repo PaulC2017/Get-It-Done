@@ -1,0 +1,10 @@
+Description
+
+This project created a task tracking application  Users can register on the site, login and add tasks to their "TODO" list.  
+Users can see a list of tasks yet to be done, mark a task as completed and display a list of completed tasks.
+
+Languages and Technologies
+
+This project uses Python3, Flask and Jinja2 for the routing, templates and controllers.  SQLAlchemy
+is used to manage the data base housing user and blog data.
+
